@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=me-nobody&show_icons=false&theme=gruvbox&count_private=True&hide=rank" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=me-nobody&show_icons=true&theme=gruvbox&count_private=True&hide=rank" width="400">
 
 
 <!--
