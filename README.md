@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=me-nobody&show_icons=true&theme=gruvbox&count_private=True&hide=rank" width="400">
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-nobody&hide=Roff,Jupyter&nbspNotebook&hide_progress=true)
 <!--
 **me-nobody/me-nobody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
